@@ -1,0 +1,67 @@
+++++++++++  Statistics of the DDI Dataset +++++++++++
+
+-- train --
+  - # of relations: 27725
+
+  -  NO-REL :
+    - # of relations: 23715 (85.54%)
+    - Min. seq. length: 2.00
+    - Avg. seq. length: 41.35
+    - Max. seq. length: 105.00
+
+  -  EFFECT :
+    - # of relations: 1685 (6.08%)
+    - Min. seq. length: 6.00
+    - Avg. seq. length: 28.53
+    - Max. seq. length: 103.00
+
+  -  MECHANISM :
+    - # of relations: 1312 (4.73%)
+    - Min. seq. length: 5.00
+    - Avg. seq. length: 30.11
+    - Max. seq. length: 77.00
+
+  -  ADVISE :
+    - # of relations: 824 (2.97%)
+    - Min. seq. length: 7.00
+    - Avg. seq. length: 27.50
+    - Max. seq. length: 61.00
+
+  -  INT :
+    - # of relations: 189 (0.68%)
+    - Min. seq. length: 7.00
+    - Avg. seq. length: 37.13
+    - Max. seq. length: 75.00
+
+-- test --
+  - # of relations: 5709
+
+  -  NO-REL :
+    - # of relations: 4730 (82.85%)
+    - Min. seq. length: 4.00
+    - Avg. seq. length: 37.09
+    - Max. seq. length: 96.00
+
+  -  EFFECT :
+    - # of relations: 360 (6.31%)
+    - Min. seq. length: 8.00
+    - Avg. seq. length: 25.74
+    - Max. seq. length: 81.00
+
+  -  MECHANISM :
+    - # of relations: 302 (5.29%)
+    - Min. seq. length: 8.00
+    - Avg. seq. length: 28.59
+    - Max. seq. length: 69.00
+
+  -  ADVISE :
+    - # of relations: 221 (3.87%)
+    - Min. seq. length: 8.00
+    - Avg. seq. length: 28.45
+    - Max. seq. length: 64.00
+
+  -  INT :
+    - # of relations: 96 (1.68%)
+    - Min. seq. length: 7.00
+    - Avg. seq. length: 35.79
+    - Max. seq. length: 95.00

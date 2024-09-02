@@ -1,0 +1,104 @@
+++++++++++  Statistics of the n2c2 Dataset +++++++++++
+
+
+-- train --
+  - # of relations: 46261 (49.20% pos., 50.80% neg.)
+
+  -  Strength-Drug :
+    - # of relations: 14895 (32.20%) (44.23% pos., 55.77% neg.)
+    - Min. seq. length: 2.00
+    - Avg. seq. length: 26.06
+    - Max. seq. length: 162.00
+
+  -  Duration-Drug :
+    - # of relations: 640 (1.38%) (63.12% pos., 36.88% neg.)
+    - Min. seq. length: 2.00
+    - Avg. seq. length: 27.52
+    - Max. seq. length: 100.00
+
+  -  Route-Drug :
+    - # of relations: 5945 (12.85%) (47.72% pos., 52.28% neg.)
+    - Min. seq. length: 2.00
+    - Avg. seq. length: 27.59
+    - Max. seq. length: 105.00
+
+  -  Form-Drug :
+    - # of relations: 5963 (12.89%) (69.21% pos., 30.79% neg.)
+    - Min. seq. length: 2.00
+    - Avg. seq. length: 21.82
+    - Max. seq. length: 160.00
+
+  -  ADE-Drug :
+    - # of relations: 1169 (2.53%) (68.52% pos., 31.48% neg.)
+    - Min. seq. length: 2.00
+    - Avg. seq. length: 24.94
+    - Max. seq. length: 87.00
+
+  -  Dosage-Drug :
+    - # of relations: 3221 (6.96%) (47.47% pos., 52.53% neg.)
+    - Min. seq. length: 2.00
+    - Avg. seq. length: 29.50
+    - Max. seq. length: 105.00
+
+  -  Reason-Drug :
+    - # of relations: 4486 (9.70%) (66.58% pos., 33.42% neg.)
+    - Min. seq. length: 3.00
+    - Avg. seq. length: 26.38
+    - Max. seq. length: 110.00
+
+  -  Frequency-Drug :
+    - # of relations: 9942 (21.49%) (35.06% pos., 64.94% neg.)
+    - Min. seq. length: 2.00
+    - Avg. seq. length: 31.77
+    - Max. seq. length: 161.00
+
+-- test --
+  - # of relations: 41114 (57.07% pos., 42.93% neg.)
+
+  -  Strength-Drug :
+    - # of relations: 10266 (24.97%) (41.34% pos., 58.66% neg.)
+    - Min. seq. length: 3.00
+    - Avg. seq. length: 37.57
+    - Max. seq. length: 163.00
+
+  -  Duration-Drug :
+    - # of relations: 568 (1.38%) (75.00% pos., 25.00% neg.)
+    - Min. seq. length: 4.00
+    - Avg. seq. length: 25.98
+    - Max. seq. length: 67.00
+
+  -  Route-Drug :
+    - # of relations: 6786 (16.51%) (52.25% pos., 47.75% neg.)
+    - Min. seq. length: 2.00
+    - Avg. seq. length: 41.69
+    - Max. seq. length: 144.00
+
+  -  Form-Drug :
+    - # of relations: 5382 (13.09%) (81.27% pos., 18.73% neg.)
+    - Min. seq. length: 2.00
+    - Avg. seq. length: 18.38
+    - Max. seq. length: 161.00
+
+  -  ADE-Drug :
+    - # of relations: 983 (2.39%) (74.57% pos., 25.43% neg.)
+    - Min. seq. length: 3.00
+    - Avg. seq. length: 26.71
+    - Max. seq. length: 105.00
+
+  -  Dosage-Drug :
+    - # of relations: 3565 (8.67%) (75.60% pos., 24.40% neg.)
+    - Min. seq. length: 3.00
+    - Avg. seq. length: 23.29
+    - Max. seq. length: 160.00
+
+  -  Reason-Drug :
+    - # of relations: 4340 (10.56%) (78.57% pos., 21.43% neg.)
+    - Min. seq. length: 3.00
+    - Avg. seq. length: 28.28
+    - Max. seq. length: 193.00
+
+  -  Frequency-Drug :
+    - # of relations: 9224 (22.44%) (43.73% pos., 56.27% neg.)
+    - Min. seq. length: 2.00
+    - Avg. seq. length: 41.75
+    - Max. seq. length: 162.00
